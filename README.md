@@ -1,16 +1,19 @@
-### Hi there 👋
+![362691294_120358034470158_5072610805201349160_n](https://github.com/Abethebabe1991/Abethebabe1991/assets/163752380/4d94ad86-92c4-4478-8c62-d86086033b4c)
+
+
+### Welcome to my portfolio! 
+
+I am excited to work with you and hope you will celebrate my progress of becoming a web developer with me as we delve into my most recent projects.
+![362691294_120358034470158_5072610805201349160_n](https://github.com/Abethebabe1991/Abethebabe1991/assets/163752380/a8a33aa3-f333-4e4e-a16f-84ab20e1608a)
+![362691294_120358034470158_5072610805201349160_n](https://github.com/Abethebabe1991/Abethebabe1991/assets/163752380/e7c1845a-3f06-43dc-a0fc-7f5036296d4c)
 
 <!--
-**Abethebabe1991/Abethebabe1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on developing a platform for 3D virtual tours.
+- 🌱 I’m currently learning Javascript and all its functions to make Websites dance, function, and make dreams come true.
+- 💬 Ask me about my experience in project management and as a team leader in fundraising and marketing.
+- 📫 How to reach me: abe@trusite.co
+- ⚡ Fun fact: cooking keeps me calm and happy. 🥰
 -->
