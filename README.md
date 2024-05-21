@@ -4,8 +4,6 @@
 ### Welcome to my portfolio! 
 
 I am excited to work with you and hope you will celebrate my progress of becoming a web developer with me as we delve into my most recent projects.
-![362691294_120358034470158_5072610805201349160_n](https://github.com/Abethebabe1991/Abethebabe1991/assets/163752380/a8a33aa3-f333-4e4e-a16f-84ab20e1608a)
-![362691294_120358034470158_5072610805201349160_n](https://github.com/Abethebabe1991/Abethebabe1991/assets/163752380/e7c1845a-3f06-43dc-a0fc-7f5036296d4c)
 
 <!--
 
