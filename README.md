@@ -7,7 +7,6 @@ I am excited to work with you and hope you will celebrate my progress of becomin
 
 <!--
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing a platform for 3D virtual tours.
 - 🌱 I’m currently learning Javascript and all its functions to make Websites dance, function, and make dreams come true.
